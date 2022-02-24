@@ -1,21 +1,16 @@
-# README #
+# SCREEN SCRAPPING #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+### Installation ###
 
-### What is this repository for? ###
+* Clone this repo or fork it and clone from your account
+* use a local development server of your choice, Xampp or Wamp
+* Please the entire folder under either htdocs of xampp or www of wamp
+* create a database called employees
+* Import the sql file in the database folder
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+### Testing ###
+* Visit localhost/screen-scraping
+* click on the start scrapping button
 
 ### Contribution guidelines ###
 
