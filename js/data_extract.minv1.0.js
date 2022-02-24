@@ -65,7 +65,7 @@ window.onload = () => {
 if (document.getElementById('scraping-btn')) {
     var ajaxBtn = document.getElementById('scraping-btn');
     ajaxBtn.addEventListener('click', function() {
-        alert('clicked')
+        scrap()
     })
 }
 function scrap() {
